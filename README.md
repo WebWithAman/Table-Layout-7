@@ -1,2 +1,2 @@
-# Table-Layout-7
-This is a Table Layout Created Using HTML Tables And Designed Using Css.. 
+# Website Layout Using Tables
+This is a Simple Website Layout Created Using Html Tables And Designed Using Css.. 
