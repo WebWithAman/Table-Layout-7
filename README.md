@@ -1,2 +1,2 @@
-# Website Layout Using Tables
-This is a Simple Website Layout Created Using Html Tables And Designed Using Css.. 
+# website layout using tables
+This is a simple website layout created using HTML tables and designed using CSS. 
